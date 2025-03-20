@@ -1,4 +1,4 @@
-const serverURL = 'http://localhost:8080/api'; // Backend API URL
+const serverURL = 'http://localhost:8000/api'; // Backend API URL
 
 export const handleFormSubmit = async (event) => {
     event.preventDefault();

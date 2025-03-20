@@ -16,7 +16,7 @@ The Travel App is a web application that allows users to book trips by entering 
 
 ## Installation
 -Clone the repository:
-git clone https://github.com/malakdaraghmeh/travel_project.git
+git clone https://github.com/malakdaraghmeh/ProjectTrevel.git
 cd travel_project
 
 
@@ -50,7 +50,7 @@ npm run build-dev
   npm test
 
 ## Technologies
--Node.js v20.17.0
+-Node.js v20.11.0
 
 -Express.js for backend server
 
